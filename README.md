@@ -30,16 +30,6 @@ You’ll gain proficiency in the following tasks:
 
 ---
 
-## Files
-
-Download the following files to help you get started:
-
-[Forecasting Net Prophet notebook](Starter_Code/forecasting_net_prophet.ipynb)
-
-[Data files](Starter_code/Resources)
-
----
-
 ## Instructions
 
 First, configure a Google Colaboratory, or Colab, workspace as follows:
@@ -135,16 +125,6 @@ To create the forecast, complete the following steps:
 2. Interpret the model output to identify any seasonal patterns in the company revenue. For example, what are the peak revenue days? (Mondays? Fridays? Something else?)
 
 3. Produce a sales forecast for the finance group. Give them a number for the expected total sales in the next quarter. Include the best- and worst-case scenarios to help them make better plans.
-
----
-
-## Submission
-
-- Create Jupyter notebooks for the analysis, and host them on GitHub.
-
-- Include a Markdown file that summarizes your models and findings, and include this report in your GitHub repo.
-
-- Submit the link to your GitHub project to Bootcamp Spot.
 
 ---
 
